@@ -1,0 +1,153 @@
+  
+
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <title>NFT Pass</title>
+  <style>
+    .navbar{
+              background-color:black;
+                border-radius:none;
+    }
+    .navbar ul{
+      overflow: auto;
+    }
+    .navbar li{
+      float:left;
+      list-style: none;
+      padding:10px 22px;
+    }
+    .navbar  li a {
+       padding:3px 3px;
+       text-decoration:none;
+      color:white;
+       margin:3px 3px;
+    }
+    .search{
+         float: right;
+                padding:10px;
+              color: white;
+    } 
+  
+ .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #white;
+  color: white;
+}
+
+.fa-twitter {
+  background: #white;
+  color: white;
+}
+
+.fa-google {
+  background: #black;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #black;
+  color: white;
+}
+
+.fa-youtube {
+  background:none;
+  color: white;
+}
+
+.fa-instagram {
+  background:none;
+  color: white;
+}
+
+ 
+  </style>  
+</head>
+<body>
+     <header>
+      <nav class="navbar">
+        <ul>
+          <b><li><a href="https://dribbble.com/" >Home</a></li></b>
+          <li><a href="https://dribbble.com/shots"  >inspiration</a></li>
+          <li><a href="https://dribbble.com/jobs"  >Find work</a></li>
+          <li><a href="https://dribbble.com/learn"  >Learn Desgin</a></li>
+          <li><a href="https://dribbble.com/pro"  > Go Pro</a></li>
+          <li><a href="https://dribbble.com/marketplace">Desgin File</a></li>
+          <li><a href="https://dribbble.com/hiring">Hire Desginer</a></li>
+             <div class="search"><input type="text" name="search"id="search" placeholder="search"></div>
+        </ul> 
+
+      </nav>
+     </header><hr>
+     <br>  
+       <center><a href=" https://cdn.dribbble.com/userupload/3498446/file/original-f5062d5b2a8c5457e23603418a0e66c6.png?compress=1&resize=752x"> <img style="border-radius: 20px;" src="https://cdn.dribbble.com/userupload/3498446/file/original-f5062d5b2a8c5457e23603418a0e66c6.png?compress=1&resize=1200x900"></a></center> 
+       <br>
+         
+        <center> <b>Syfuddin</b></center>
+        <center><p>  Feel free to share your love press "L"!</p></center>
+        <center><font>check more here:</font></center><br>
+        <center><font color="blue">Contact Me:</font>9704438865</center>
+        <hr>
+        <br>
+         <div style=" border-radius: 25px; background-color:#e1e3e1"><br>        
+          <center><h3>HELLO!</h3></center>
+        <center><H3>web developer</H3></center>
+        <center><a href="mailto:Hello@gmail.com"><button style= " background-color:#9965b8;border-radius:6px;border-style:15px;padding-left:8px;padding-top:8px;padding-bottom:8px;padding-right:8px;"><font color="white"> Hire me</font></button></center></a><br></div>
+         <div>
+           <ol><h3>More by Syfuddin</h3></ol><br>
+         </div> 
+          <a href="https://dribbble.com/shots/16997339-NFT-Venari-Alpha-Pass-blockchain"><img style="border-radius: 25px;  padding-left: 40px; padding-right: 15px;" src=" https://cdn.dribbble.com/users/2698091/screenshots/16997339/m56_pr.png?compress=1&resize=320x240&vertical=top "></a>
+          <a href="https://dribbble.com/shots/19210353-Moonar-NFT-Metaverse" ><img style= "border-radius: 25px; padding-right: 15px;" src="https://cdn.dribbble.com/userupload/3353850/file/still-acb63758e027b8c49fd6cbaaee4e46fe.png?compress=1&resize=320x240&vertical=top "></a>
+          <a href="https://dribbble.com/shots/16875881-NFT-interface-Game-UX-UI "> <img style=" border-radius: 25px; padding-right: 15px;" src=" https://cdn.dribbble.com/users/2698091/screenshots/16875881/m49.png?compress=1&resize=320x240&vertical=top"></a>
+          <a href="https://dribbble.com/shots/17080366-Leaderboard-game-interface "><img style=" border-radius: 25px; padding-right: 15px;" src=" https://cdn.dribbble.com/users/2698091/screenshots/17080366/shokm.png?compress=1&resize=320x240&vertical=top "></a><br><br><br><br>
+           <center><button> L</button> <button > I</button> <button> K</button> <button> E</button> </center><br>
+         <div style=" border-radius:36px;  background-color: lightgrey"> <ul>
+          
+             <pre>             <b>
+               For designers                  Hire designers                     Company                              Directories        </b>
+
+                Go Pro!                       Post a job opening                 About                                Privacy policy
+
+                Explore design work           Post a freelance project           Careers                              esigners for hire
+ 
+                Overtime podcast              Search for designers               Support                              Tags
+
+                Playoffs                      <b>Brands</b>                                       
+                                                                     
+                Weekly Warm-Up                Advertise with us                              
+
+                Refer a Friend                                                   
+                Code of conduct                                                     
+
+                                                                                 
+             
+          
+          </pre>
+          <table>
+          <center>
+ <a href="https://www.facebook.com/" class="fa fa-facebook"></a>
+<a href="https://twitter.com/i/flow/login" class="fa fa-twitter"></a>
+<a href="https://www.google.com/" class="fa fa-google"></a>
+<a href="https://www.linkedin.com/login" class="fa fa-linkedin"></a>
+<a href="  https://www.youtube.com/" class="fa fa-youtube"></a>
+<a href="https://www.instagram.com/" class="fa fa-instagram"></a>
+ 
+</table>
+</center>  
+        </div> 
+  </body>
+</html>
